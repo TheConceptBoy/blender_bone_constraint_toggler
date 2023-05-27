@@ -22,7 +22,7 @@ class ArmatureConstraintsToggleMenu(bpy.types.Menu):
 		
 
 class EnableArmatureConstraints(bpy.types.Operator):
-	"""Enables all bones constraints within any selected armatures"""      # Use this as a tooltip for menu items and buttons.
+	"""Enables all bone constraints within any selected armatures"""      # Use this as a tooltip for menu items and buttons.
 	bl_idname = "object.enable_armature_constraints"		# Unique identifier for buttons and menu items to reference.
 	bl_label = "Enable Armature Constraints"		 # Display name in the interface.
 	bl_options = {'REGISTER', 'UNDO'}  # Enable undo for the operator.
@@ -65,7 +65,7 @@ class EnableArmatureConstraints(bpy.types.Operator):
 
 				
 class DisableArmatureConstraints(bpy.types.Operator):
-	"""Disables all bones constraints within any selected armatures"""      # Use this as a tooltip for menu items and buttons.
+	"""Disables all bone constraints within any selected armatures"""      # Use this as a tooltip for menu items and buttons.
 	bl_idname = "object.disable_armature_constraints"   	 # Unique identifier for buttons and menu items to reference.
 	bl_label = "Disable Armature Constraints"   	  # Display name in the interface.
 	bl_options = {'REGISTER', 'UNDO'}  # Enable undo for the operator.
