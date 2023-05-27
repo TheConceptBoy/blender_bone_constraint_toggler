@@ -21,6 +21,15 @@ Seriosuly... thousands of animators using Blender and nobody thought of this bei
  For cases when making video game character animations and you need to export your rigged and animated mesh in formats like GLTF which, will get messed up if you forget to disable your constraints.
  
  This should really be an export option and it shoul've have been stock feature of Blender about 10 years ago.
- 
+
+**Installation**
+
+1) Download the constraint_togger.py
+2) Go to Edit > Preferences > Add-ons
+3) Click Install button
+4) select the constraint_togger.py file
+5) Click the checkmark to enable the plugin.
+6) Done!
  
 
+![image](https://github.com/TheConceptBoy/blender_bone_constraint_toggler/assets/52581279/c168a8d0-9582-4901-a48c-885912585cf5)
