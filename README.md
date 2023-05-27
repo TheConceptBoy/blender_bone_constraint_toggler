@@ -1,4 +1,4 @@
-# blender_constraint_toggler
+# blender_bone_constraint_toggler
  A simple plugin that adds a couple of menu options to enable or disables all bone constraints on any selected armatures.
  
  ![image](https://github.com/TheConceptBoy/blender_bone_constraint_toggler/assets/52581279/081a3142-27e7-45e4-ab0c-f36ec6eec1b0)
