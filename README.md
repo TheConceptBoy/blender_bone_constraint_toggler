@@ -3,6 +3,8 @@
  
  ![image](https://github.com/TheConceptBoy/blender_bone_constraint_toggler/assets/52581279/081a3142-27e7-45e4-ab0c-f36ec6eec1b0)
  
+ I placed the option into Objects Menu to make it as quickly accessible as possible. Also visible from within the (quick menu search) F3 hotkey with a keyword **Mute** and **Unmute**
+ 
  **Problem** 
  
  When exporting rigged characters from blender to be used in your game engine, you must remember that all bone constraints need to be disabled. Otherwise your exported animations will be mangled. 
